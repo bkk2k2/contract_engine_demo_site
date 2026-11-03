@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://whom-wendy-acre-seating.trycloudflare.com",
+  "apiBase": "https://api.trycloudflare.com",
   "restart": false
 }
