@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://martin-hello-baseball-jews.trycloudflare.com",
+  "apiBase": "https://api.trycloudflare.com",
   "restart": false
 }
