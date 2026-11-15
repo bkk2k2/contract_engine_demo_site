@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://any-watershed-administrative-test.trycloudflare.com",
+  "apiBase": "https://api.trycloudflare.com",
   "restart": false
 }
