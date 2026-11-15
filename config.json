@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://api.trycloudflare.com",
+  "apiBase": "https://hats-briefing-dat-raymond.trycloudflare.com",
   "restart": false
 }
