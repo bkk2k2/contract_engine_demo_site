@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://observation-rentals-wallace-merchants.trycloudflare.com",
+  "apiBase": "https://api.trycloudflare.com",
   "restart": false
 }
