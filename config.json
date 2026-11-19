@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://boss-ftp-wake-inch.trycloudflare.com",
+  "apiBase": "https://api.trycloudflare.com",
   "restart": false
 }
