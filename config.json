@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://picnic-jar-divisions-purchases.trycloudflare.com",
+  "apiBase": "https://api.trycloudflare.com",
   "restart": false
 }
