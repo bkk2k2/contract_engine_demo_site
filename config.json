@@ -1,4 +1,4 @@
 {
-  "apiBase": "https://enters-sing-beyond-sealed.trycloudflare.com",
+  "apiBase": "https://api.trycloudflare.com",
   "restart": false
 }
